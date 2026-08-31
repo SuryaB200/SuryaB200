@@ -29,8 +29,8 @@ I am a passionate computer science student and **beginner AI developer** explori
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Surya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya B&show_icons=true&theme=tokyonight" alt="Surya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya B&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
