@@ -36,6 +36,6 @@ I am a passionate computer science student and **beginner AI developer** explori
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Portfolio / Art Station:** [yourlink.com](https://yourlink.com)
-* **Email:** `your.email@example.com`
+* **LinkedIn:** [linkedin.com/in/yourprofile]()
+* **Portfolio / Art Station:** [yourlink.com]()
+* **Email:** `suryab2006s@gmail.com`
